@@ -67,3 +67,22 @@ Inclui modo claro e modo noturno (rosê escuro).
 ---
 
 ## 📂 Estrutura do repositório
+com-carinho-lu/
+
+├── app/              # Código exportado do Figma Make
+
+├── docs/             # Documentação completa do trabalho (PDF)
+
+└── README.md
+
+---
+
+## 👤 Autor
+
+**Lucas Roldão Cardoso**
+Trabalho da disciplina de UX/UI Design — Professora Andrezza Vieira de Andrade
+
+---
+
+*Documento e processo elaborados com apoio de Claude (Anthropic), 
+ChatGPT (OpenAI) e Gemini (Google).*
