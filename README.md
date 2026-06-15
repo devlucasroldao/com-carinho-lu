@@ -61,7 +61,7 @@ Inclui modo claro e modo noturno (rosê escuro).
 
 - **Figma — Antes (Trabalho 1 / AP2):** [Lu Perfumes & Presentes](https://www.figma.com/make/wysWGRh3KCJ3rtTjKy1d7z/App---Lu-Perfumes)
 - **Figma — Depois (versão final):** [Com Carinho, Lu](https://www.figma.com/make/MmX0pDOD63Hdn7EbN3TDwa/Com-Carinho--Lu-App)
-- **Vídeo de apresentação:** [YouTube](LINK_DO_VIDEO_AQUI)
+- **Vídeo de apresentação:** [YouTube](https://www.youtube.com/watch?v=smvFgnM5FkU)
 - **Documentação completa:** [`/docs`](./docs)
 
 ---
