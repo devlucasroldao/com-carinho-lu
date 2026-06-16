@@ -64,6 +64,8 @@ Inclui modo claro e modo noturno (rosê escuro).
 - **Vídeo de apresentação:** [YouTube](https://www.youtube.com/watch?v=smvFgnM5FkU)
 - **Documentação completa:** [`/docs`](./docs)
 
+🔗 **Deploy:** https://com-carinho-lu.vercel.app/
+
 ---
 
 ## 📂 Estrutura do repositório
